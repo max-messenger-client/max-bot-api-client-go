@@ -3,7 +3,7 @@
 
 ## Документация
 
-В [документации](https://github.com/max-messenger/max-bot-api-client-go/tree/master/docs) вы можете найти подробные инструкции по использованию фреймворка.
+В [документации](https://github.com/max-messenger-client/max-bot-api-client-go/tree/master/docs) вы можете найти подробные инструкции по использованию фреймворка.
 
 ## Быстрый старт
 
